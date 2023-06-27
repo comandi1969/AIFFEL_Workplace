@@ -18,19 +18,19 @@
   > 위 항목에 대한 근거 작성 필수
 
 # 코드의 작동 방식
-word =input("단어를 입력하세요 : ")
-//input 함수를 이용하여 회문 입력받음
-reversed_word = word[::-1]
-//슬라이싱 간격 값을 -1로 설정하여 입력값을 거꾸로 뒤집음
-print(reversed_word)
-// 뒤집은 값 확인
+word =input("단어를 입력하세요 : ")  
+//input 함수를 이용하여 회문 입력받음  
+reversed_word = word[::-1]  
+//슬라이싱 간격 값을 -1로 설정하여 입력값을 거꾸로 뒤집음  
+print(reversed_word)  
+// 뒤집은 값 확인  
 
-if word == reversed_word :
-    print("입력값은 : ", reversed_word)
-    print( "입니다.")
-else :
-    print("회문이 아닙니다.")
-//뒤집은 값과 원래 입력값이 같으면 회문으로 다르면 회문이 아닙니다 판단    
+if word == reversed_word :  
+    print("입력값은 : ", reversed_word)  
+    print( "입니다.")  
+else :  
+    print("회문이 아닙니다.")  
+//뒤집은 값과 원래 입력값이 같으면 회문으로 다르면 회문이 아닙니다 판단      
 
 
 
