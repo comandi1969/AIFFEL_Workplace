@@ -1,6 +1,6 @@
 # AIFFEL Campus Online 5th Code Peer Review
-- 코더 : [코더 이름]
-- 리뷰어 : [본인 이름]
+- 코더 : 조대희
+- 리뷰어 : 박영준
 
 
 # PRT(PeerReviewTemplate) 
